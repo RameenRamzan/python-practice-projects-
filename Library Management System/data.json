@@ -1,0 +1,16 @@
+[
+    {
+        "Id": "Tk^04F7",
+        "Name": "Charlie Summers",
+        "Email": "charlie.summers@email.com",
+        "Phone": "03723438293",
+        "Password": "charlie123",
+        "Pin": "0001",
+        "Books": [
+            {
+                "title": "Crime and Punishment",
+                "author": "Fyodor Dostoevsky"
+            }
+        ]
+    }
+]

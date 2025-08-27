@@ -1,0 +1,542 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "quantity": 5
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "quantity": 3
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "quantity": 7
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "quantity": 4
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "quantity": 6
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Bront\u00c3\u00ab",
+        "quantity": 3
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "quantity": 2
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "quantity": 8
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "quantity": 10
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "quantity": 3
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "quantity": 5
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "quantity": 6
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "quantity": 7
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "quantity": 3
+    },
+    {
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "quantity": 4
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bront\u00c3\u00ab",
+        "quantity": 2
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "quantity": 5
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "quantity": 3
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "quantity": 4
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "quantity": 1
+    },
+    {
+        "title": "The Iliad",
+        "author": "Homer",
+        "quantity": 3
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "quantity": 2
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "quantity": 6
+    },
+    {
+        "title": "Les Mis\u00c3\u00a9rables",
+        "author": "Victor Hugo",
+        "quantity": 3
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "quantity": 7
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "quantity": 5
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "quantity": 4
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "quantity": 6
+    },
+    {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "quantity": 3
+    },
+    {
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "quantity": 5
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "quantity": 4
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "quantity": 6
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+        "quantity": 2
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "quantity": 3
+    },
+    {
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "quantity": 5
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "quantity": 2
+    },
+    {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "quantity": 4
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "quantity": 1
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "quantity": 6
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "quantity": 3
+    },
+    {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "quantity": 2
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "quantity": 4
+    },
+    {
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "quantity": 7
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "quantity": 5
+    },
+    {
+        "title": "Norwegian Wood",
+        "author": "Haruki Murakami",
+        "quantity": 3
+    },
+    {
+        "title": "Kafka on the Shore",
+        "author": "Haruki Murakami",
+        "quantity": 4
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "quantity": 2
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "quantity": 6
+    },
+    {
+        "title": "Looking for Alaska",
+        "author": "John Green",
+        "quantity": 5
+    },
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "quantity": 5
+    },
+    {
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "quantity": 4
+    },
+    {
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "quantity": 3
+    },
+    {
+        "title": "Learning Python",
+        "author": "Mark Lutz",
+        "quantity": 2
+    },
+    {
+        "title": "Effective Python",
+        "author": "Brett Slatkin",
+        "quantity": 3
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "quantity": 4
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andy Hunt",
+        "quantity": 4
+    },
+    {
+        "title": "You Don\u00e2\u20ac\u2122t Know JS",
+        "author": "Kyle Simpson",
+        "quantity": 5
+    },
+    {
+        "title": "JavaScript: The Good Parts",
+        "author": "Douglas Crockford",
+        "quantity": 2
+    },
+    {
+        "title": "Eloquent JavaScript",
+        "author": "Marijn Haverbeke",
+        "quantity": 4
+    },
+    {
+        "title": "JavaScript & JQuery",
+        "author": "Jon Duckett",
+        "quantity": 3
+    },
+    {
+        "title": "Head First Java",
+        "author": "Kathy Sierra",
+        "quantity": 3
+    },
+    {
+        "title": "Effective Java",
+        "author": "Joshua Bloch",
+        "quantity": 2
+    },
+    {
+        "title": "Java: The Complete Reference",
+        "author": "Herbert Schildt",
+        "quantity": 3
+    },
+    {
+        "title": "C Programming Language",
+        "author": "Kernighan & Ritchie",
+        "quantity": 2
+    },
+    {
+        "title": "Head First C",
+        "author": "David Griffiths",
+        "quantity": 2
+    },
+    {
+        "title": "Let Us C",
+        "author": "Yashavant Kanetkar",
+        "quantity": 3
+    },
+    {
+        "title": "Programming in C",
+        "author": "Stephen G. Kochan",
+        "quantity": 2
+    },
+    {
+        "title": "C++ Primer",
+        "author": "Stanley B. Lippman",
+        "quantity": 2
+    },
+    {
+        "title": "Effective C++",
+        "author": "Scott Meyers",
+        "quantity": 3
+    },
+    {
+        "title": "The Rust Programming Language",
+        "author": "Steve Klabnik",
+        "quantity": 2
+    },
+    {
+        "title": "Go in Action",
+        "author": "William Kennedy",
+        "quantity": 2
+    },
+    {
+        "title": "Go Programming Language",
+        "author": "Alan A. A. Donovan",
+        "quantity": 3
+    },
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Cormen et al.",
+        "quantity": 2
+    },
+    {
+        "title": "Grokking Algorithms",
+        "author": "Aditya Bhargava",
+        "quantity": 3
+    },
+    {
+        "title": "Design Patterns",
+        "author": "Erich Gamma",
+        "quantity": 2
+    },
+    {
+        "title": "Structure and Interpretation of Computer Programs",
+        "author": "Harold Abelson",
+        "quantity": 1
+    },
+    {
+        "title": "Code Complete",
+        "author": "Steve McConnell",
+        "quantity": 2
+    },
+    {
+        "title": "Refactoring",
+        "author": "Martin Fowler",
+        "quantity": 2
+    },
+    {
+        "title": "The Mythical Man-Month",
+        "author": "Frederick P. Brooks",
+        "quantity": 2
+    },
+    {
+        "title": "Soft Skills",
+        "author": "John Sonmez",
+        "quantity": 2
+    },
+    {
+        "title": "The Art of Computer Programming",
+        "author": "Donald Knuth",
+        "quantity": 1
+    },
+    {
+        "title": "Working Effectively with Legacy Code",
+        "author": "Michael Feathers",
+        "quantity": 2
+    },
+    {
+        "title": "Test-Driven Development",
+        "author": "Kent Beck",
+        "quantity": 2
+    },
+    {
+        "title": "Cracking the Coding Interview",
+        "author": "Gayle Laakmann McDowell",
+        "quantity": 4
+    },
+    {
+        "title": "Elements of Programming Interviews",
+        "author": "Adnan Aziz",
+        "quantity": 3
+    },
+    {
+        "title": "Programming Pearls",
+        "author": "Jon Bentley",
+        "quantity": 2
+    },
+    {
+        "title": "Algorithms",
+        "author": "Robert Sedgewick",
+        "quantity": 2
+    },
+    {
+        "title": "The Clean Coder",
+        "author": "Robert C. Martin",
+        "quantity": 3
+    },
+    {
+        "title": "Think Python",
+        "author": "Allen B. Downey",
+        "quantity": 2
+    },
+    {
+        "title": "Pro Git",
+        "author": "Scott Chacon",
+        "quantity": 2
+    },
+    {
+        "title": "Linux Command Line and Shell Scripting",
+        "author": "Richard Blum",
+        "quantity": 2
+    },
+    {
+        "title": "Docker Deep Dive",
+        "author": "Nigel Poulton",
+        "quantity": 2
+    },
+    {
+        "title": "Kubernetes Up & Running",
+        "author": "Brendan Burns",
+        "quantity": 2
+    },
+    {
+        "title": "Fullstack Python",
+        "author": "Matt Makai",
+        "quantity": 2
+    },
+    {
+        "title": "Python for Data Analysis",
+        "author": "Wes McKinney",
+        "quantity": 2
+    },
+    {
+        "title": "Hands-On Machine Learning with Scikit-Learn",
+        "author": "Aur\u00c3\u00a9lien G\u00c3\u00a9ron",
+        "quantity": 2
+    },
+    {
+        "title": "Deep Learning with Python",
+        "author": "Fran\u00c3\u00a7ois Chollet",
+        "quantity": 2
+    },
+    {
+        "title": "FastAPI Handbook",
+        "author": "Sebasti\u00c3\u00a1n Ram\u00c3\u00adrez",
+        "quantity": 2
+    },
+    {
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "quantity": 5
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bront\u00c3\u00ab",
+        "quantity": 4
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "quantity": 6
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "quantity": 5
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "quantity": 3
+    },
+    {
+        "title": "Les Mis\u00c3\u00a9rables",
+        "author": "Victor Hugo",
+        "quantity": 4
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "quantity": 5
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "quantity": 2
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "quantity": 2
+    },
+    {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "quantity": 5
+    }
+]
