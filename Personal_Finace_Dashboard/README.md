@@ -16,16 +16,16 @@ This is one of my first small projects, mainly built to learn Streamlit + pandas
 ## Screenshots
 
 **Spending by Category**
-![Spending by category](screenshots/spending-by-category.png)
+![Spending by category](spending-by-category.png)
 
 **Category Filter**
-![Category filter](screenshots/category-filter.png)
+![Category filter](category-filter.png)
 
 **Spending Trend Over Time**
-![Spending trend over time](screenshots/spending-trend.png)
+![Spending trend over time](spending-trend.png)
 
 **Top 10 Biggest Expenses**
-![Top 10 biggest expenses](screenshots/top-expenses.png)
+![Top 10 biggest expenses](top-expenses.png)
 
 ## How to run it
 
