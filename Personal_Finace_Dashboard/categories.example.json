@@ -1,0 +1,12 @@
+{
+  "exact_matches": {
+    "123456": "Internet Bill",
+    "789012": "Tuition Fee",
+    "kuickpay": "Bill Payment",
+    "your friend's name": "Friend",
+    "your family member's name": "Family",
+    "your broker name": "Investments",
+    "dividend company name": "Income - Dividend"
+  },
+  "fee_keywords": ["charges", "fee", "fed", "tax", "visa annual"]
+}
